@@ -10,11 +10,12 @@ Several numeric methods how to calculate the zero of a function in [MATLAB](http
 
 ## Function
 This function is used as an example.
+
 ![example function](http://repat.de/Bilder/nullstellen_funktion.jpg)
 
 ## Explanations
 * [Eta](https://en.wikipedia.org/wiki/Eta) (\eta), precision of the result
-* Nullstelle, German for Zero (or root) of the function
+* Nullstelle, German for zero (or root) of the function
 
 ## Contact
 * http://repat.de
