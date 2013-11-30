@@ -1,6 +1,16 @@
 zero-of-function-algorithm
 ======
-Several methods of how to calculate the zero of a function in [MATLAB](https://en.wikipedia.org/wiki/MATLAB).
+Several numeric methods how to calculate the zero of a function in [MATLAB](https://en.wikipedia.org/wiki/MATLAB).
+
+## Methods
+* [Bisection method](https://en.wikipedia.org/wiki/Bisection_method)
+* [Newton's method](https://en.wikipedia.org/wiki/Newton%27s_method)
+* [False position method](https://en.wikipedia.org/wiki/False_position_method), also called [regula falsi method](https://en.wikipedia.org/wiki/Regula_falsi_method)
+* [Secant method](https://en.wikipedia.org/wiki/Secant_method)
+
+## Explanations
+* [Eta](https://en.wikipedia.org/wiki/Eta) (\eta), precision of the result
+* Nullstelle, German for Zero (or root) of the function
 
 ## Contact
 * http://repat.de
