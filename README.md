@@ -8,6 +8,10 @@ Several numeric methods how to calculate the zero of a function in [MATLAB](http
 * [False position method](https://en.wikipedia.org/wiki/False_position_method), also called [regula falsi method](https://en.wikipedia.org/wiki/Regula_falsi_method)
 * [Secant method](https://en.wikipedia.org/wiki/Secant_method)
 
+## Function
+This function is used as an example.
+![example function](http://repat.de/Bilder/nullstellen_funktion.jpg)
+
 ## Explanations
 * [Eta](https://en.wikipedia.org/wiki/Eta) (\eta), precision of the result
 * Nullstelle, German for Zero (or root) of the function
